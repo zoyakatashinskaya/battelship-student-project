@@ -9,7 +9,7 @@ The following design patters are implemented:
 * Iterator
 
 ## Game flow
-Here is how the output would llok like:
+Here is how the output would look like:
 ```
 Welcome to Battleship!!!
 
