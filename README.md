@@ -61,9 +61,9 @@ Your scoreboard:
 
 Enter the position you want to attack: 
 ```
-Game in progress:
-"X" - the ship is hit
-"O" - missed
+Game in progress:  
+"X" - the ship is hit  
+"O" - missed  
 ```
 Your board is: 
 
