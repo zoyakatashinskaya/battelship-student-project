@@ -1,4 +1,4 @@
-# battelship-student-project
+# Battelship (student project)
 This is a student project for the Software construction course.
 
 This game implements a user-computer Battleship play.
