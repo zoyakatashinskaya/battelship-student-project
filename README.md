@@ -62,6 +62,8 @@ Your scoreboard:
 Enter the position you want to attack: 
 ```
 Game in progress:
+"X" - the ship is hit
+"O" - missed
 ```
 Your board is: 
 
@@ -139,7 +141,7 @@ Your scoreboard:
 <...>
 ```
 
-## Input gor users battleships
+## Input for users battleships
 ```
 E9 J9 - Carrier
 A2 A5 - BattleShip
